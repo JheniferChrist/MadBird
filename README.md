@@ -77,6 +77,6 @@ Todos os tipos de contribuições são muito bem-vindos!
 
 ## :art: **Sobre a Desenvolvedora**
 
-Feito com muito ♥ by Jhenifer Christ e equipe :wave: [Get in touch!](https://www.linkedin.com/in/jjheniferchrist/)
+Feito com muito ♥ by Jhenifer Christ e equipe Gabriel Barroso, Guilherme Reis, Rodrigo do Vale e Diogo Silva :wave: [Get in touch!](https://www.linkedin.com/in/jjheniferchrist/)
 
 É isso pessoal, até breve =)
