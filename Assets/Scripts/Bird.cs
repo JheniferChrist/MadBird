@@ -31,7 +31,6 @@ public class Bird : MonoBehaviour
     {
         
     }
-
     void OnMouseUp()
     {
         _spriteRenderer.color = Color.white;
